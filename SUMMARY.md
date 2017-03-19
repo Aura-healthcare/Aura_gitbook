@@ -1,7 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* 
+* [Use Cases](/Use Cases.md "Use Cases")
+* [Mobile Application](/Mobile Application.md)
+* [Aura Gateway](/Aura Gateway.md)
+
 
 
