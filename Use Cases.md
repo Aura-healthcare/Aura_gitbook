@@ -6,11 +6,7 @@ The Aura project is  a set of smart objects designed to help epileptic patients.
 
 Aura Wristband is able to detect seizures several minutes before it happens and can alert parents thanks to the mobile app. The communication between the monitoring object and the mobile app is enforced by a dedicated gateway \(Aura Gateway\).
 
-### **Self monitoring for epilpetic patient**
+### **Self monitoring for epilepetic patients**
 
 Aura Wristband is able to detect seizures several minutes before it happens and can alert patients thanks to the mobile app. Because in this usage case both wristband and smartphone are "weared" by the patient, no gateway is requiered. This mode is totally mobile.
-
- 
-
-
 
