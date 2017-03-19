@@ -1,6 +1,6 @@
 # Mobile Application
 
-The Aura mobile application 
+The Aura mobile application
 
 ## Pre-requisites
 
