@@ -14,7 +14,7 @@ The Aura mobile application is used at home as an end point to the Aura Gateway.
 
 ## Pre-requisites
 
-The Aura mobile application requires a smartphone working on Android OS with active Bluetooth or Wifi connection
+The Aura mobile application requires a smartphone working on Android OS with active Bluetooth/Wifi connection
 
 ## User Experience
 
@@ -34,6 +34,8 @@ The Aura mobile application allows:
 8. User to review personnal epilepsy seizure history 
 
 ## Architecture
+
+To Simplify![](/assets/auraapparchitecture.jpg)
 
 ## Source Code
 
