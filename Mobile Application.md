@@ -35,9 +35,11 @@ The Aura mobile application allows:
 
 ## Architecture
 
+
+
 ## Source Code
 
-## 
+The Aura mobile app source code is open source, distributed under GPL license and available on [Github](https://github.com/clecoued/Aura_mobile_app).
 
 
 
