@@ -1,0 +1,34 @@
+# Mobile Application
+
+<<<<<<< HEAD
+The Aura mobile application is the user interacting interface 
+=======
+The Aura mobile application
+>>>>>>> 738b44f1807cf8f02311d1c4afe614d0d5906476
+
+It can work in two distincts mode:
+
+#### nomad mode
+
+The Aura mobile is used in a nomad context. It monitors directly phydiological data from armwrist sensors to alerts user from an upcomming seizure. 
+
+#### home-based mode
+
+The Aura mobile application is used by 
+
+Pre-requisites
+
+## User Experience
+
+Add following flowcharts:
+
+## Functionnalities
+
+## Architecture
+
+## Source Code
+
+## 
+
+
+
