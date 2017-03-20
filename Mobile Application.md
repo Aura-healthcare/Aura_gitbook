@@ -1,6 +1,4 @@
-
-
-Aura Mobile Application
+# Aura Mobile Application
 
 The Aura mobile application is the epileptic patient interacting interface
 
@@ -26,19 +24,24 @@ Add following flowcharts:![](/assets/epi_ux_flowchart_loading.jpg)
 
 The Aura mobile application allows:
 
-1. User to be alerted few minutes in advance of an epileptic seizure
+1. User to be notified few minutes in advance of an epileptic seizure
+2. User to securely access to a private monitoring session
+3. User to store anonymized and encrypted personnal physiological data on Cloud
+4. User to pair automatically with Aura devices and Aura Gateway to monitor physiological data
+5. User to report an epilepsy seizure
+6. User to report a detailled aura
+7. User to report a false seizure alert 
+8. User to review epilepsy seizure history 
 
-2User to securely access to a private monitoring session
 
-User to store anonymized and encrypted physiological data on Clo
 
-1. 1. 1. 1. User to pair automatically with Aura devices and Aura Gateway 
-2. User to report an epilepsy seizure
 
-1. 1. User to report a false seizure alert 
 
-1. User to 
-2. User to report an epilepsy seizure 
+
+
+User to
+
+1. 2. User to report an epilepsy seizure 
    \* 
 3. * fine tune Bluetooth pairing
    * synchronize data on Cloud
