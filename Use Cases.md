@@ -10,5 +10,9 @@ Aura Wristband is able to detect seizures several minutes before it happens and 
 
 ### **Self monitoring for epileptic patients**
 
-Aura Wristband is able to detect seizures several minutes before it happens and can alert patients thanks to the mobile app. Because in this use case both wristband and smartphone are "weared" by the patient, no gateway is requiered. This mode is totally mobile.
+Aura Wristband is able to detect seizures several minutes before it happens and can alert patients thanks to the mobile app. Because in this use case both wristband and smartphone are "weared" by the patient, no gateway is required. This mode is totally mobile.
+
+
+
+
 
