@@ -33,17 +33,11 @@ The Aura mobile application allows:
 7. User to report a false seizure alert 
 8. User to review epilepsy seizure history 
 
-
-
-
-
-
-
 User to
 
-1. 2. User to report an epilepsy seizure 
-   \* 
-3. * fine tune Bluetooth pairing
+1. 1. User to report an epilepsy seizure 
+      \* 
+2. * fine tune Bluetooth pairing
    * synchronize data on Cloud
    * report an epilepsy seizure
    * report an aura
