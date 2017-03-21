@@ -23,11 +23,13 @@ Once authentification succeed, the mobile application will automatically pair wi
 
 During the monitoring session, the user can quickly report a past epilepsy seizure, a past aura or a false epilepsy seizure alert.
 
-This information will help to improve Aura personnalized algorithms and allows to user to review his seizure history and share it with his specialist.
+This information will help to improve Aura personnalized algorithms and allows the user to review his seizure history and share it with his specialist.
 
 The user can also decide when to sync his encrypted personnal data with the Cloud in order to limit data comsumption.![](/assets/epi_ux_flowchart_buttonmenu_v2.jpg)
 
-## Functionnalities
+#### Seizure alert 
+
+#### Functionnalities
 
 The Aura mobile application allows:
 
