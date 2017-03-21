@@ -4,8 +4,8 @@ The Aura mobile application is the epileptic patient interacting interface.
 
 It can work in two distinct modes:
 
-* **nomad mode:** The Aura mobile app is used for outdoors activities. It monitors directly physiological data from armwrist sensors to alert user of an upcoming seizure
-* **home-based mode:** The Aura mobile application is used at home as an end point of the Aura Gateway. It alerts patient close relatives of an upcoming seizure.
+* **nomad mode:** The Aura mobile app is used for outdoors activities. It monitors directly physiological data from armwrist sensors to alert user of an incoming seizure
+* **home-based mode:** The Aura mobile application is used at home as an end point of the Aura Gateway. It alerts patient close relatives of an incoming seizure.
 
 ## Pre-requisites
 
@@ -27,7 +27,7 @@ This information will help to improve Aura personnalized algorithms and allows t
 
 The user can also decide when to sync his encrypted personnal data with the Cloud in order to limit data comsumption.![](/assets/epi_ux_flowchart_buttonmenu_v2.jpg)
 
-#### Seizure alert 
+#### Seizure alert
 
 #### Functionnalities
 
