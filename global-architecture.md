@@ -8,9 +8,9 @@ It can be split in 4 main modules:
 
 * **Aura Gateway: **A hardware module that enforce communication to database
 
-* **Aura Mobile application: **A smartphone application
+* **Aura Mobile application: **A smartphone application that allows user to be alerted o and to report seizure
 
-* **Aura Algorithms: They are two **
+* **Aura Algorithms:** 
 
 ![](/assets/auraglobalarchitecture %282%29.png)
 
