@@ -13,7 +13,23 @@ The Aura mobile application requires a smartphone working on Android OS with act
 
 ## User Experience
 
-Add following flowcharts:![](/assets/epi_ux_flowchart_loading.jpg)
+#### Application Start
+
+First, the user is requested to authentificate with credentials or via an external Identity provider\(Facebook/ Google account\)  to access his private monitoring session.
+
+Once authentification succeed, the mobile application will automatically pair with Aura devices and Aura gateway in order to start seizure monitoring.
+
+
+
+#### User Actions 
+
+#### Seizure monitoring
+
+#### 
+
+#### 
+
+#### 
 
 ## Functionnalities
 
