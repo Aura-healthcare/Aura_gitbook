@@ -2,10 +2,10 @@
 
 ### Phases
 
-We have to consider two differents phases in the product lifecycle: 
+We have to consider two differents phases in the product lifecycle:
 
-* **training phase**: A first short phase where patient physiological data are sent to the Cloud in order to train machine learning algorithms. 
-* **monitoring phase: **
+* **training phase**: A first short phase where patient physiological data are sent to the Cloud in order to train a machine learning algorithms. The personnalized resulting configuration is then updated on an Aura device embed algorithm.
+* **monitoring phase: **A second phase where patient physiological data are received by the Aura device embed algorithm and processed without remote connection.
 
 ### Design
 
