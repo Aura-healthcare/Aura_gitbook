@@ -17,7 +17,7 @@ It can be split in 4 main modules:
 
 * **Aura Gateway: **A hardware module that enforce communication to database
 
-* **Aura Mobile application: **A smartphone application that allows user to be alerted o and to report seizure
+* **Aura Mobile application: **A smartphone application that allows patients and relative to be alerted of an upcoming seizure and to report an 
 
 * **Aura Algorithms:**
 
