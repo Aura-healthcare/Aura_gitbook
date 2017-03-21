@@ -1,6 +1,6 @@
 # Aura Mobile Application
 
-The Aura mobile application is the epileptic patient interacting interface.
+The Aura mobile application is a smartphone application that connects epileptic patient to Aura service.
 
 It can work in two distinct modes:
 
