@@ -2,7 +2,10 @@
 
 ### Phases
 
-We have to consider two differents phases in to 
+We have to consider two differents phases in the product lifecycle: 
+
+* **training phase**: A first short phase where patient physiological data are sent to the Cloud in order to train machine learning algorithms. 
+* **monitoring phase: **
 
 ### Design
 
