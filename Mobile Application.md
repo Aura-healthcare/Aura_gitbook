@@ -29,6 +29,8 @@ The user can also decide when to sync his encrypted personnal data with the Clou
 
 #### Seizure alert
 
+![](/assets/epi_ux_seizure_alert_flowchart %281%29.png)
+
 #### Functionnalities
 
 The Aura mobile application allows:
