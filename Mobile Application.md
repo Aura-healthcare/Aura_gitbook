@@ -29,6 +29,10 @@ The user can also decide when to sync his encrypted personnal data with the Clou
 
 #### Seizure alert
 
+During monitoring sessions physiological parameters are streamed to embed Aura algorithm.
+
+When Aura algorithm predicts an epilepsy seizure, it triggers an alert on mobile application. The mobile application automatically notifies the user with a buzz, sound and visual alert and indicates the approximate remaining time before the seizure.  ![](/assets/epi_ux_seizure_alert_flowchart %281%29.png)
+
 ![](/assets/epi_ux_seizure_alert_flowchart %281%29.png)
 
 #### Functionnalities
