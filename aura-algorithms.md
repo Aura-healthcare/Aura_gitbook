@@ -2,9 +2,13 @@
 
 ## Architecture
 
+#### Training Phase
+
 ![](/assets/auraalgorithmstrainingarchitecture.png)
 
-![](/assets/auraalgorithmsmonitoringarchitecture.png)
+#### Monitoring Phase
+
+#### ![](/assets/auraalgorithmsmonitoringarchitecture.png)
 
 ## Algorithm evaluation
 
