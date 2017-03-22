@@ -1,10 +1,12 @@
 # Aura Algorithms
 
-
-
 ## Architecture
 
-## Algorithms evaluation
+![](/assets/auraalgorithmstrainingarchitecture.png)
+
+![](/assets/auraalgorithmsmonitoringarchitecture.png)
+
+## Algorithm evaluation
 
 We will use 3 metrics to assess the performance of epilepsy seizure prediction algorithms:
 
