@@ -2,13 +2,13 @@
 
 ## Pre-requisites
 
-In order to communicate with the Aura Server, the Gateway needs an internet connection with at least one of the following link :
+In order to communicate with the Aura Server, the Gateway needs an internet connection with at least one of the following communication link :
 
 * Wifi and/or Ethernet over FAI box ; and/or
 
 * 2G/3G/4G over mobile network \(mobile operator data subscription requiered\) .
 
-If several links are used, the Gateway will be able to manage failure of one link by switching to another link.
+If several links are used, the Gateway will be able to manage failure of one of them by switching to another link \(enhanced reliability of the communication link\).
 
 ## User Experience
 
