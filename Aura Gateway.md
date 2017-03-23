@@ -23,15 +23,17 @@ The Gateway requiers a configuration step before beeing totally autonomous. Duri
 
 ## Functionnalities
 
-The Aura Gateway is a platform dedicated to management of Aura Devices and safe/reliable communication with Aura server or mobile app.
+The Aura Gateway is a platform dedicated to management of the communication between each Aura Device and the Aura Server in safe/reliable/secured manner. This Gateway allows : 
+
+* To be configured as previously explained ;
+* To manage reliable BLE connections with all the registered Aura Devices \(including link loss management\) ;
+* To manage reliable multi-support communication with the Aura Server ;
+* To conserv
+* To be robust to power failure.
 
 ## Architecture
-
-
 
 ## Source Code
 
 The Aura mobile app source code is open source, distributed under GPL license and available on **Github**.
-
-
 
