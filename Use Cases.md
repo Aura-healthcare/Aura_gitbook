@@ -1,6 +1,6 @@
 # Use Cases
 
-The Aura project is a set of smart objects designed to help epileptic patients. After a short self-learning period and by monitoring physiological informations like ECG, EDA, Respiration Rate, Body Temperature, Movements, ... the Aura Solution will be able to detect seizures and alert patient several minutes before it occures.
+The Aura project is a set of smart objects designed to help epileptic patients. After a short self-learning period and by monitoring physiological informations like ECG, EDA, Respiration Rate, Body Temperature, Movements, ... the Aura Solution will be able to detect seizures and alert patient several minutes before it occurs.
 
 The following chapters will introduce the two main use cases considered for the Aura Project.
 
