@@ -1,8 +1,8 @@
 # Medical regulation
 
-The "Aura" solution is developped ... medical device ...  following ISO - XXXX and ISO- YYYY norms.
+The "Aura" solution is developped in order to get class2a medical device certification. ...  following ISO - XXXX and ISO- YYYY norms.
 
-These norms drives a high quality software, hardware and documentation quality.
+The norms ISO-XXXX and ISO-YYYY drives high quality software, hardware and documentation.
 
-We also implement a Quality Management System to ensure** Aura solution** meet users requirements and safety along each phase of developments.
+We also implement a Quality Management System to ensure** Aura solution** meet users expectations and safety requirements along each stage of development.
 
