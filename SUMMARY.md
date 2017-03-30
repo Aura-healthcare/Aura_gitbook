@@ -9,5 +9,5 @@
 * [Aura Algorithms](aura-algorithms.md)
 * [Medical Regulation](medical-regulation.md)
 * [Collaborations](collaborations.md)
-* [Contacts](///contacts.md)
+* [Contacts](contacts.md)
 
