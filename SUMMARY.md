@@ -7,9 +7,7 @@
 * [Aura Mobile Application](/Mobile Application.md)
 * [Aura Gateway](/Aura Gateway.md)
 * [Aura Algorithms](aura-algorithms.md)
-* [Medical Regulations](medical-regulations.md)
-* Collaborations
-* [Contacts](/contacts.md)
-
-
+* [Medical Regulation](medical-regulations.md)
+* [Collaborations](collaborations.md)
+* [Contacts](///contacts.md)
 
