@@ -8,7 +8,7 @@
 
 #### Monitoring Phase
 
-#### ![](/assets/auraalgorithmsmonitoringarchitecture.png)
+![](/assets/auraalgorithmsmonitoringarchitecture.png)
 
 ## Algorithm evaluation
 
