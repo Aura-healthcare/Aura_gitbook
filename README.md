@@ -13,7 +13,7 @@ They cause:
 * many accidents in daily life \(falls, burns, ...\)
 * social exclusion
   * from the others due to fear provoked by theses seizures
-  * from the educational and work environment because of the lack of
+  * from the educational and work environment because of the risks resulting from unadapted logistics 
 * permanent life-threatning danger. An untreated long-lasting epilepsy seizure episode can lead to fatal complications \(SUDEP\). Each year, 33 000 people died from this disease in Europe\[3\]
 
 Epilespy is also very impacting for the patient relatives who:
