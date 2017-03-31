@@ -23,7 +23,7 @@ Epilespy is also very impacting for the patient relatives who:
 
 ### Treatments
 
-Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 80% of patients.
+Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 80% of patients\[4\].
 
 They are also alternatives treatments:
 
