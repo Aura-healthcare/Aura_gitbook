@@ -2,7 +2,7 @@
 
 [https://clecoued.gitbooks.io/aura/content/](https://clecoued.gitbooks.io/aura/content/)
 
-According to World Health Organization, Epilepsy is a common neurological disorder that affects around 6 millions people of all ages and social conditions in Europe\[1\]. In France, we count 400 000 epileptic patients\[2\].
+According to World Health Organization, Epilepsy is a common neurological disorder that affects around 6 millions people of all ages and social conditions in Europe\[1\]. In France, we count 400 000 epileptic patients\[1\].
 
 ### Living with Epilepsy
 
@@ -14,16 +14,16 @@ They cause:
 * social exclusion
   * from the others due to fear provoked by theses seizures
   * from the educational and work environment because of the risks resulting from unadapted logistics 
-* permanent life-threatning danger. An untreated long-lasting epilepsy seizure episode can lead to fatal complications \(SUDEP\). Each year, 33 000 people died from this disease in Europe\[3\]
+* permanent life-threatning danger. An untreated long-lasting epilepsy seizure episode can lead to fatal complications \(SUDEP\). Each year, 33 000 people died from this disease in Europe\[1\]
 
-Epilespy is also very impacting for the patient relatives who:
+Epilepsy is also very impacting for the patient relatives who:
 
-* lives with a constant fear from upcoming seizure 
+* lives with a constant fear from an upcoming seizure 
 * organizes their lifes in order to take care and support the patients 
 
 ### Treatments
 
-Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 80% of patients\[4\].
+Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 80% of patients\[\]. For the remaining 20% patients, called pharmcoresistant, we usually consider to remove epileptic focus by surgery or implant a VNS device.
 
 They are also alternatives treatments:
 
@@ -32,5 +32,7 @@ They are also alternatives treatments:
 * Ketogenic diet 
 * Complementary health approachs 
 
+### References
 
+\[1\] Comité National pour l’Epilepsie. Synthèse de mars 2011, L’épilepsie en France : Une thématique aux enjeux considérables. Available on [http://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf](ttp://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf)
 
