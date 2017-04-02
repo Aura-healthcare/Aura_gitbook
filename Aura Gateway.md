@@ -28,7 +28,8 @@ The Aura Gateway is a platform dedicated to management of the communication betw
 * manage reliable BLE connections with all the registered Aura Devices \(including link loss management\) ;
 * manage reliable multi-supports communication with the Aura Server ;
 * keep a non volatile copy of data over several days \(for loss of communication management\) ;
-* be robust to power failure.
+* be robust to power failure;
+* allowed Aura Device battery charging.
 
 ## Architecture
 
