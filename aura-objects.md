@@ -16,6 +16,7 @@ Here is our goal :
 
 * _Smart Object_ : Embedded Seizure Monitoring Algorithms, Self-Learning Object with Permanent Improvement Strategy, No-Loss Data Management \(no data shall be lost\), ...
 * _Physiological signals measurements_ : ECG, EDA, Respiration Rate, Body Temperature, Movements.
+* _HMI _: interactions between device and patient shall be possible \(TBD by user needs\) ; 
 * _Connectivity _: BLE, USB.
 * _Autonomy _: &gt; 2 weeks and wireless battery charging through the gateway ;
 * _Pricing _: Low-cost medical device with budget &lt; 200 euros ;
