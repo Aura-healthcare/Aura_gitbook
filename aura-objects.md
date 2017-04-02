@@ -14,11 +14,12 @@ The device collects physiological signals and is able to apply a personnalized a
 
 Here is our goal :
 
-* Physiological signals measurements : ECG, EDA, Respiration Rate, Body Temperature, Movements.
-* Connectivity : BLE, USB.
-* Autonomy : &gt; 2 weeks and wireless battery charging through the gateway ;
-* Pricing : Low-cost medical device with budget &lt; 200 euros ;
-* Other : waterproof device.
+* _Smart Object_ : Embedded Seizure Monitoring Algorithms, Self-Learning Object with Permanent Improvement Strategy, No-Loss Data Management \(no data shall be lost\), ...
+* _Physiological signals measurements_ : ECG, EDA, Respiration Rate, Body Temperature, Movements.
+* _Connectivity _: BLE, USB.
+* _Autonomy _: &gt; 2 weeks and wireless battery charging through the gateway ;
+* _Pricing _: Low-cost medical device with budget &lt; 200 euros ;
+* _Other_ : waterproof device.
 
 
 
