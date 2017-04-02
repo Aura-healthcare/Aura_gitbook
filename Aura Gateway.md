@@ -34,5 +34,5 @@ The Aura Gateway is a platform dedicated to management of the communication betw
 
 ## Source Code
 
-The Aura mobile app source code is open source, distributed under GPL license and available on **Github**.
+The Aura Gateway source code is open source, distributed under GPL license and available on **Github**.
 
