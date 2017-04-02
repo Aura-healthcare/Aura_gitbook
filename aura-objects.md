@@ -19,7 +19,7 @@ Here is our goal :
 * _Connectivity _: BLE, USB.
 * _Autonomy _: &gt; 2 weeks and wireless battery charging through the gateway ;
 * _Pricing _: Low-cost medical device with budget &lt; 200 euros ;
-* _Safety _: Developped with safety considerations ;
+* _Safety _: Developped with safety considerations \(state of art of safety devices management\) ;
 * _Other_ : waterproof device.
 
 
