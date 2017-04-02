@@ -16,9 +16,9 @@ Concerning the Aura device, here is our aim :
 
 * Physiological signals measurements : ECG, EDA, Respiration Rate, Body Temperature, Movements.
 * Connectivity : BLE, USB.
-* Low-cost medical device : &lt; 200 euros ;
-* Autonomy : &gt; 2 weeks \(but can be charged thanks to the gateway\) ;
-* Waterproof device.
+* Autonomy : &gt; 2 weeks and wireless battery charging through the gateway ;
+* Pricing : Low-cost medical device with budget &lt; 200 euros ;
+* Other : waterproof device.
 
 
 
