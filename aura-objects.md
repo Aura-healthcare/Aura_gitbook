@@ -12,7 +12,7 @@ The device collects physiological signals and is able to apply a personnalized a
 
 ### Aura Device Specification
 
-Concerning the Aura device, here is our aim :
+Here is our goal :
 
 * Physiological signals measurements : ECG, EDA, Respiration Rate, Body Temperature, Movements.
 * Connectivity : BLE, USB.
