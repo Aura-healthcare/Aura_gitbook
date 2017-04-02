@@ -4,7 +4,7 @@ The Aura device is weared by the patient and collects plenty of physiological si
 
 ### Step 1 : Collect and Connect
 
-The device collects the physiological signals and send data to our cloud services \(thanks to the Gateway or the Mobile App\). This first step will be used to develop our detection algorithms and on market devices will be used.
+The device collects the physiological signals and send data to our cloud services \(thanks to the Gateway or the Mobile App\). This step will be used to develop our detection algorithms and on-market devices will be used.
 
 ### Step 2 : Collect and Detect
 
