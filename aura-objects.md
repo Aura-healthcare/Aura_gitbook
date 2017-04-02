@@ -12,12 +12,13 @@ The device collects physiological signals and is able to apply a personnalized a
 
 ### Aura Device Specification
 
-Concerning the Aura device, we :
+Concerning the Aura device, here is our aim :
 
 * Physiological signals measurements : ECG, EDA, Respiration Rate, Body Temperature, Movements.
-* Low-cost product : &lt; 200 euros ;
+* Connectivity : BLE, USB.
+* Low-cost medical device : &lt; 200 euros ;
 * Autonomy : &gt; 2 weeks \(but can be charged thanks to the gateway\) ;
-* High
+* Waterproof device.
 
-Spécifications à préciser par rapport aux cas d'usage \(performances, fiabilité, ...\).
+
 
