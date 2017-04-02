@@ -14,7 +14,7 @@ The device collects physiological signals and is able to apply a personnalized a
 
 Concerning the Aura device, we :
 
-* Physiological signals measurements : 
+* Physiological signals measurements : ECG, EDA, Corporal Temperature.
 * Low-cost product : &lt; 200 euros ;
 * Autonomy : &gt; 2 weeks \(but can be charged thanks to the gateway\) ;
 * High
