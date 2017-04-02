@@ -32,6 +32,8 @@ The Aura Gateway is a platform dedicated to management of the communication betw
 
 ## Architecture
 
+To be completed
+
 ## Source Code
 
 The Aura Gateway source code is open source, distributed under GPL license and available on **Github**.
