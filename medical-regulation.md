@@ -1,10 +1,18 @@
 # Medical regulation
 
-The "Aura" solution is developped as a Class 2a Medical Device. In order to get the certification, we are working hard in the implementation of a Quality Management System ensuring the "**Aura" Solution** meets user expectations and safety requirements along each stage of development. We Developpement Processes et Methodologies requiered when  Iget class2a medical device certification. The Aura project developpement follows the state of art process and methodology for developping Medical Devices. We developped a
+The "Aura" Solution is developped as a Class 2a Medical Device. In order to get the certification, we are working hard in the implementation of a "Startup Adapted" Quality Management System ensuring the global solution meets user expectations and safety requirements along each stage of development. All part of the global solution is developped with a high quality objective \(hardware, embedded software, cloud software, documentations, ...\). Here are the main norms wich drives our developpements :
 
- ...  following ISO - XXXX and ISO- YYYY norms.
+* European reglementation :
+  * Directive 93/42/CEE ;
+  * ISO 13485 : Quality Management Systems ;
+  * IEC 62304 : Software life cycle processes ;
+  * IEC 14971 : Medical Device Risk Management ;
+  * IEC 60601-1 \(and 60601-x\) : General Requirements for Safety ;
+  * ...
 
-The norms ISO-XXXX and ISO-YYYY drives high quality software, hardware and documentation.
+* FDA reglementation : 
+  * 510\(k\) ;
+  * ...
 
-We also implement 
+
 
