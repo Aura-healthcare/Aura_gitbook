@@ -34,7 +34,7 @@ They are also alternatives treatments:
 
 ### Where Aura Solution can help
 
-Aura doesn't cure epilepsy, because it doesn't stop seizures. But it provides informations about the disease and help patients to better live with it. Our goal is to help people who suffers from this disease to better live with it. We wan't to help parents to take care of their epileptic childrens, help people who medicine can't help, help people until they find an effective medical treatment... 
+Aura doesn't cure epilepsy, because it doesn't stop seizures. But it provides informations about the disease and helps patients to better live with it. Our goal is to help parents to take care of their epileptic childrens, help people who medicine can't help, help people until they find an effective medical treatment...
 
-So we 't help. Aura won't stop seizures but will provide usefull information to patients about their diseases. We will help patients without solutions to better live with their disease. 
+So we 't help. Aura won't stop seizures but will provide usefull information to patients about their diseases. We will help patients without solutions to better live with their disease.
 
