@@ -32,9 +32,7 @@ They are also alternatives treatments:
 * Ketogenic diet 
 * Complementary health approachs 
 
-
-
 ### Where Aura Solution can help
 
-
+Situer le produit
 
