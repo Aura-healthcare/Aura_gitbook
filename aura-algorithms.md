@@ -20,9 +20,9 @@ We will use 3 metrics to assess the performance of epilepsy seizure prediction a
 
 ## Source Code
 
-To be completed
+The Aura Gateway source code is open source, distributed under GPL license and available on **Github.**
 
 ## References
 
-to be completed
+
 
