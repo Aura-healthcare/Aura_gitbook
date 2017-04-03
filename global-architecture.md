@@ -25,5 +25,7 @@ It can be split in 4 main modules:
 
   * Monitoring algorithms which are embed in Aura Mobile application and Aura server to detect in advance upcoming seizures
 
-![](/assets/auraglobalarchitectureproto.png)
+  ![](/assets/auraglobalarchitectureproto.png)
+
+
 
