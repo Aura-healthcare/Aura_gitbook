@@ -23,13 +23,12 @@ Epilepsy is also very impacting for the patient relatives who:
 
 ### Treatments
 
-Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 80% of patients[]. For the remaining 20% patients, called pharmcoresistant, we usually consider to remove epileptic focus by surgery.
+Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 80% of patients\[2\]. For the remaining 20% patients, called pharmcoresistant, we usually consider to remove epileptic focus by surgery.
 
 They are also alternatives treatments:
 
-* Surgery 
-* Vagal Nerve Stimulation implants 
-* Ketogenic diet 
+* Therapeutic and Seizure alert devices
+* Dietaries approachs 
 * Complementary health approachs 
 
 ### Where Aura Solution can help
@@ -39,4 +38,6 @@ Aura doesn't cure epilepsy because it doesn't stop seizures. But it provides use
 ### References
 
 \[1\] Comité National pour l’Epilepsie. Synthèse de mars 2011, L’épilepsie en France : Une thématique aux enjeux considérables. Available on [http://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf](ttp://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf)
+
+\[2\] Epilepsy Foundation, Treating Seizures and Epilepsy, http://www.epilepsy.com/learn/treating-seizures-and-epilepsy \[Accessed 3 Apr. 2017 \]
 
