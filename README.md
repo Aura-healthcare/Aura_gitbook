@@ -23,7 +23,7 @@ Epilepsy is also very impacting for the patient relatives who:
 
 ### Treatments
 
-Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 70% of patients\[2\]. For the remaining 30% patients, called pharmcoresistant, we usually consider to remove epileptic focus by surgery. However only part of the patient are good candidate and this invasive operation carries some risks.
+Medicine is the most common way of treating epilepsy. It prevents or stop seizures in 70% of patients\[2\]. For the remaining 30% patients, called pharmcoresistant, we usually consider to remove epileptic focus by surgery. However only part of the patient are good candidates and this invasive operation carries some risks.
 
 They are also alternatives treatments:
 
