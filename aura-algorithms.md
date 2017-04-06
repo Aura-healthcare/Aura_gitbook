@@ -4,15 +4,13 @@ Epilepsy seizure prediction is a very wide challenge. In 2017, International Lea
 
 Our approach is to learn incrementally to detect patient-specific patterns corresponding to seizure pre-ictal phase. To do so we will rely on data science recent development in Supervised learning algorithms. Recurrent neural networks and especially LSTM networks algorithms have shown outstanding performances on multiples applications such as speech recognition or automatic image captioning and suits very well to multi-label time series classification\[2\].
 
+#### Step 1: Training Phase
 
-
-#### Training Phase
-
-For each patient, we will feed the algorithm with physiological data, reported auras and seizures to train it to detect patient pre-ictal seizure periods. Once we reach a good algorithm performance \(cf Algorithm evaluation\) we ill initiate the monitoring phase 
+For each patient, we will feed the algorithm with physiological data, reported auras and seizures to train it to detect patient pre-ictal seizure periods. Once we reach a good algorithm performance \(cf Algorithm evaluation\) we ill initiate the monitoring phase
 
 ![](/assets/auraalgorithmstrainingarchitecture.png)
 
-#### Monitoring Phase
+#### Step 2: Monitoring Phase
 
 ![](/assets/auraalgorithmsmonitoringarchitecture.png)
 
