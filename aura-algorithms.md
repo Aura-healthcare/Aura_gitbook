@@ -1,8 +1,8 @@
 # Aura Algorithms
 
-Epilepsy seizure prediction is very wide challenge. In 2017, International League Against Epilepsy revised an expanded ~30 seizure types classification\[1\]. In addition, each patient physiological response to epilepsy seizure is unique.
+Epilepsy seizure prediction is a very wide challenge. In 2017, International League Against Epilepsy revised an expanded ~30 seizure types classification\[1\]. In addition, each patient physiological response to epilepsy seizure is unique.
 
-Our approach is to learn incrementally to detect patient specific patterns corresponding to seizure pre-ictal phase. To do so we will rely on data science recent development in Supervised learning algorithms. Recurrent neural networks and especially LSTM networks algorithms have shown outstanding performance on multiples applications such as speech recognition or automatic image captioning. very well  to multi-label time series classification\[2\]. 
+Our approach is to learn incrementally to detect patient specific patterns corresponding to seizure pre-ictal phase. To do so we will rely on data science recent development in Supervised learning algorithms. Recurrent neural networks and especially LSTM networks algorithms have shown outstanding performance on multiples applications such as speech recognition or automatic image captioning. very well  to multi-label time series classification\[2\].
 
 ## Training Phase
 
