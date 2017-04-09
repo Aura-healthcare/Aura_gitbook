@@ -12,7 +12,7 @@ During this step, 10 Aura devices will be developped following the final specifi
 
 ### Step 3 : Aura Device production
 
-Once prototypes will be validated \(incremental process\), a first production of 100 initial products will be launch.
+Once prototypes validated \(incremental process\), a first production of 100 initial products will be launch and deployed
 
 ### Aura Device Specification
 
