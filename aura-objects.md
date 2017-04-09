@@ -1,10 +1,10 @@
 # Aura Devices
 
-The Aura device is weared by the patient and collects plenty of physiological signals which will feed our algorithms in order to provide all Aura services. We can divide our developments into 2 steps which are detailled in the following paragraphs.
+The Aura device is weared by the patient and collects plenty of physiological signals which will feed our algorithms in order to provide all Aura services. We can divide our developments into 3 steps which are detailled in the following paragraphs.
 
-### Step 1 : Collect and Connect
+### Step 1 : Algorithms development \(with use of On-Market Devices\)
 
-The device collects the physiological signals and send data to our cloud services \(thanks to the Gateway or the Mobile App\). This step will be used to develop our detection algorithms and on-market devices will be used.
+We will use several on-market devices in order to collect all requiered physiological signals and develop our detection algorithms. These data will be acquired on different  voluntary patients and be send to our cloud services \(thanks to the Gateway or the Mobile App\). 
 
 ### Step 2 : Collect and Detect
 
