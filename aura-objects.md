@@ -8,11 +8,11 @@ We will use several on-market devices in order to collect all requiered physiolo
 
 ### Step 2 : Aura Device prototyping
 
-During this step, 10 Aura devices will be developped following the final specifications. Because our developments are patient focused, these prototypes will be used by voluntary patients in order to validate its performances, ergonomy, ... Here we will be able to collect physiological signals and to apply a personnalized algorithm in order to classify a situation into a seizure probability scale. During situations where risks are detected, the devices will be able to notify the patient by itself or to communicate alerts to the patient's smartphone. All data collected will be upload to the cloud in order to provide smart long-term services.
+During this step, 10 Aura devices will be developped following the final specifications. Because our developments are patient focused, these prototypes will be used by voluntary patients in order to validate its performances, ergonomy, ... Here we will be able to collect physiological signals and to apply a personnalized algorithm in order to classify a situation into a seizure probability scale. During situations where risks are detected, the devices will be able to notify the patient by itself or to communicate alerts to the patient's smartphone. All data collected will be uploaded to the cloud in order to provide smart long-term services.
 
 ### Step 3 : Aura Device production
 
-Once prototypes will be validated \(incremental process\), a first production of 100 initial products will be launch.  
+Once prototypes will be validated \(incremental process\), a first production of 100 initial products will be launch.
 
 ### Aura Device Specification
 
