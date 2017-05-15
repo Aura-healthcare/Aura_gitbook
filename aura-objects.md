@@ -1,14 +1,18 @@
 # Aura Devices
 
-The Aura device is weared by the patient and collects plenty of physiological signals which will feed our algorithms in order to provide all Aura services. We can divide our developments into 2 steps which are detailled in the following paragraphs.
+The Aura device is weared by the patient and collects plenty of physiological signals which will feed our algorithms in order to provide all Aura services. We can divide our developments into 3 steps which are detailled in the following paragraphs.
 
-### Step 1 : Collect and Connect
+### Step 1 : Algorithms development \(with use of On-Market Devices\)
 
-The device collects the physiological signals and send data to our cloud services \(thanks to the Gateway or the Mobile App\). This step will be used to develop our detection algorithms and on-market devices will be used.
+We will use several on-market devices in order to collect all requiered physiological signals and develop our detection algorithms. These data will be acquired on different voluntary patients and be send to our cloud services \(thanks to the Gateway or the Mobile App\).
 
-### Step 2 : Collect and Detect
+### Step 2 : Aura Device prototyping
 
-The device collects physiological signals and is able to apply a personnalized algorithm in order to classify a situation into a seizure probability scale. During situation where risks are detected, the device will be able to notify the patient by itself or to communicate alerts to the patient's smartphone. All data collected will be upload to the cloud in order to provide smart long-term services.
+During this step, 10 Aura devices will be developped following the final specifications. Because our developments are patient focused, these prototypes will be used by voluntary patients in order to validate its performances, ergonomy, ... Here we will be able to collect physiological signals and to apply a personnalized algorithm in order to classify a situation into a seizure probability scale. During situations where risks are detected, the devices will be able to notify the patient by itself or to communicate alerts to the patient's smartphone. All data collected will be uploaded to the cloud in order to provide smart long-term services.
+
+### Step 3 : Aura Device production
+
+Once prototypes validated \(incremental process\), a first production of 100 initial products will be launch and used for final product certification, clinical tests and first commercial activities.
 
 ### Aura Device Specification
 
