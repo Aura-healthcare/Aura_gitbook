@@ -28,7 +28,7 @@ We will use 3 metrics to assess the performance of epilepsy seizure prediction a
 
 ## Source Code
 
-The Aura Algorithm source code will be soon distributed under GPL license and available on **Github.**
+The Aura Algorithm source code will be soon distributed under GPL license and available on [Github](https://github.com/clecoued/Aura_data_analysis_platform).
 
 ## References
 
