@@ -15,10 +15,25 @@ We review the state of the art regarding epilepsy seizure surveillance in order 
 
 ## Sensor benchmark
 In order to collect patients physiological samples, we set up a dual approach.
-On a first cohort, we will record physiological informations with **FDA/CE Medical approved devices**. Each prototype will be expensive but will ensure the feasibility of the prediction algorithm on very high quality data.
+On a first cohort, we will record physiological informations with **FDA/CE Medical compliant devices**. Each prototype will be expensive but will ensure the feasibility of the prediction algorithm on very high quality data.
 
 On a second cohort, we will record physiological informations with **top quality trackers**. We will develop a solution for a reasonable price that could be industrialized straight-forward.
 
+Here an overview of existing devices on the market:
+
+**FDA/CE medical compliant devices:**
+  * Vital Patch - *Vital Connect* is a patch that monitors Heart rate, Heart rate variability, skin temperature and activity
+
+  * E4 - *Embrace* is an armwrist that monitors electro dermal activity, wrist motion and skin temperature
+
+**Top quality trackers**
+  * Rythm+ - *Scosche* is an armwrist that monitors heart rate and heart rate variability
+
+  * Polar - *H10* is a torso device that monitors heart rate and heart rate variability
+
+  * edaMove - *movisens* is a device with two electrods that monitors skin conductance, skin temperature and body motion
+
+  * Moodmetric ring - *Moodmetric* is a ring that monitors electro dermal activity.
 
 ## Bibliography
 [1] Epileptic Seizure Prediction Based on Multivariate
