@@ -35,24 +35,6 @@ When Aura algorithm predicts an epilepsy seizure, it triggers an alert on mobile
 
 The user can then start a customized Safety protocol to anticipate the seizure. ![](/assets/epi_ux_seizure_alert_flowchart %281%29.png)
 
-#### Functionnalities
-
-The Aura mobile application allows:
-
-1. User to be notified few minutes in advance of an epileptic seizure
-2. User to securely access to a private monitoring session
-3. User to store anonymized and encrypted personnal physiological data on Cloud
-4. User to pair automatically with Aura devices and Aura Gateway
-5. User to report an epilepsy seizure
-6. User to report a detailled aura
-7. User to report a false seizure alert 
-8. User to review personnal epilepsy seizure history 
-
-## Architecture
-
-To Simplify![](/assets/auraapparchitecture.jpg)
-
 ## Source Code
 
 The Aura mobile app source code is open source, distributed under GPL license and available on [Github](https://github.com/clecoued/Aura_mobile_app).
-
