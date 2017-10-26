@@ -15,8 +15,6 @@ It can be split in 4 main modules:
 
 * **Aura Devices:** A serie of autonomous wearable devices that record and tranfert patient physiological data.
 
-* **Aura Gateway: **A hardware module that secures data storage and enforces communication between Aura devices, Aura mobile applications and Database.
-
 * **Aura Mobile application: **A smartphone application that allows patients and relatives to be alerted of an upcoming seizure and to interact with Aura Solution.
 
 * **Aura Algorithms: **They can be split in 2 categories
@@ -26,6 +24,3 @@ It can be split in 4 main modules:
   * Monitoring algorithms which are embed in Aura Mobile application and Aura server to detect in advance upcoming seizures
 
   ![](/assets/auraglobalarchitectureproto.png)
-
-
-
