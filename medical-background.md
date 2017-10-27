@@ -6,7 +6,7 @@ We review the state of the art regarding epilepsy seizure surveillance in order 
 
 * **Heart rate and Heart rate variability** are key data to measure disturbances of the autonomic nervous system, an early sign of epilepsy seizure.[1][2]
 
-* **Electro dermal activity** is already use to detect epilepsy seizure[3][4]. We also have strong clues that it will be a good sign to anticipate the seizure[5]
+* **Electro dermal activity** is already use to detect epilepsy seizure[3][4][6]. We also have strong clues that it will be a good sign to anticipate the seizure[5]
 
 * **Skin Dermal Temperature** will provide useful informations on the patient activity and environment
 
@@ -51,6 +51,9 @@ heart rate variability, * **Soroor Behbahani and al.**, Technology and Health Ca
 [3]An improved wrist-­worn convulsive seizure detector based on accelerometry and
 electrodermal activity sensors”,* **G. Regalia et al.** , American Epilepsy Society annual meeting 2015, abs no. 3096, 2015.*
 
-[4]A  wristband  assessment  of  accelerometry and  autonomic  activity of epileptic  patients, * **C Caborni and al.** *
+[4]A  wristband  assessment  of  accelerometry and  autonomic  activity of epileptic  patients, * **C Caborni and al.** * 
 
 [5] Detecting Seizures and their Autonomic Impact with a Wristband, * **Rosalind W. Picard**,  http://affect.media.mit.edu/projectpages/epilepsy/*
+
+[6] Automated seizure detection systems and their effectiveness for each type of seizure, * **A.
+Ulate-Campos and al.**,  Seizure Volume 40, August 2016, Pages 88-101 *
