@@ -26,6 +26,12 @@ Here an overview of existing devices on the market:
 
   * E4 - *Embrace* is an armwrist that monitors electro dermal activity, wrist motion and skin temperature
 
+  * Wearable biosensor - *Philips Healthcare* is a patch that monitors heart rate, heart rate variability, skin temperature and body motion
+
+  * MultiSense - *Rhythm Diagnostic System* is a patch that monitors heart rate, heart rate variability, skin temperature and body motion
+
+  * Caretaker 4 - *Caretaker Medical* is an armwrist that monitors heart rate, heart rate variability and skin temperature
+
 **Top quality trackers**
   * Rythm+ - *Scosche* is an armwrist that monitors heart rate and heart rate variability
 
