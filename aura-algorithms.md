@@ -2,7 +2,7 @@
 
 Epilepsy seizure prediction is a very wide challenge. In 2017, International League Against Epilepsy revised an expanded ~30 seizure types classification\[1\]. In addition, each patient physiological response to epilepsy seizure is unique.
 
-Our approach is to learn incrementally to detect patient-specific patterns corresponding to seizure pre-ictal phase. To do so we will rely on data science recent development in Supervised learning algorithms. Recurrent neural networks and especially LSTM networks algorithms have shown outstanding performances on multiples applications such as speech recognition or automatic image captioning and suits very well to multi-label time series classification\[2\].
+Our approach is to learn incrementally to detect patient-specific patterns corresponding to seizure pre-ictal phase. To do so we will rely on data science recent development in Supervised learning algorithms. Recurrent neural networks and especially LSTM networks algorithms have shown outstanding performances on multiples applications such as speech recognition or automatic image captioning and suits very well to multi-label time series classification\[2\]\[3\].
 
 
 
@@ -28,7 +28,7 @@ We will use 3 metrics to assess the performance of epilepsy seizure prediction a
 
 ## Source Code
 
-The Aura Algorithm source code will be soon distributed under GPL license and available on [Github](https://github.com/clecoued/Aura_data_analysis_platform).
+The Aura Algorithm source code are distributed under GPL v3 license and available on [Github](https://github.com/Aura-healthcare/Aura_gitbook).
 
 ## References
 
@@ -36,3 +36,4 @@ The Aura Algorithm source code will be soon distributed under GPL license and av
 
 \[2\] Zachary C. Lipton, David C. Kale, Charles Elkan, Randall Wetzel, Laura P. and Leland K. Whittier **- Learning to diagnose with LSTM reccurent neural networks** - _Conference paper at ICLR, 2016_
 
+\[3\] David Ahmedt-Aristizabal, Clinton Fookes, Kien Nguyen and Sridha Sridharan **-  Deep Classification of Epileptic Signals** - _ARXIV, Computer Science - Learning, Quantitative Biology - Neurons and Cognition, 2018_

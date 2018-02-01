@@ -2,7 +2,7 @@
 
 
 ## Monitoring physiological signs
-We review the state of the art regarding epilepsy seizure surveillance in order to select a set of physiological signs to monitor continuously.
+We review the state of the art and we discuss with epilepsy specialists regarding epilepsy seizure surveillance in order to select a set of physiological signs to monitor continuously.
 
 * **Heart rate and Heart rate variability** are key data to measure disturbances of the autonomic nervous system, an early sign of epilepsy seizure.[1][2]
 
@@ -15,9 +15,9 @@ We review the state of the art regarding epilepsy seizure surveillance in order 
 
 ## Sensor benchmark
 In order to collect patients physiological samples, we set up a dual approach.
-On a first cohort, we will record physiological informations with **FDA/CE Medical compliant devices**. Each prototype will be expensive but will ensure the feasibility of the prediction algorithm on very high quality data.
+On a first cohort, we will record physiological informations with **top quality trackers**.It will allow us to develop a solution for a reasonable price that could be industrialized straight-forward.
 
-On a second cohort, we will record physiological informations with **top quality trackers**. We will develop a solution for a reasonable price that could be industrialized straight-forward.
+On a second cohort, we will record physiological informations with **FDA/CE Medical compliant devices**. Each prototype will be expensive but will ensure the feasibility of the prediction algorithm on very high quality data.
 
 Here an overview of existing devices on the market:
 
@@ -51,7 +51,7 @@ heart rate variability, * **Soroor Behbahani and al.**, Technology and Health Ca
 [3]An improved wrist-­worn convulsive seizure detector based on accelerometry and
 electrodermal activity sensors”,* **G. Regalia et al.** , American Epilepsy Society annual meeting 2015, abs no. 3096, 2015.*
 
-[4]A  wristband  assessment  of  accelerometry and  autonomic  activity of epileptic  patients, * **C Caborni and al.** * 
+[4]A  wristband  assessment  of  accelerometry and  autonomic  activity of epileptic  patients, * **C Caborni and al.** *
 
 [5] Detecting Seizures and their Autonomic Impact with a Wristband, * **Rosalind W. Picard**,  http://affect.media.mit.edu/projectpages/epilepsy/*
 

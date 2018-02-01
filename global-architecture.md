@@ -21,6 +21,6 @@ It can be split in 4 main modules:
 
   * Learning algorithms which are processing patients data on Cloud during **Training phase **to set up monitoring algorithms personnalization
 
-  * Monitoring algorithms which are embed in Aura Mobile application and Aura server to detect in advance upcoming seizures
+  * Monitoring algorithms which are embed in Aura Mobile application/Aura devices to detect in advance upcoming seizures
 
   ![](/assets/auraglobalarchitectureproto.png)
