@@ -40,3 +40,6 @@ Aura doesn't cure epilepsy because it doesn't stop seizures. But it provides use
 \[1\] Comité National pour l’Epilepsie. Synthèse de mars 2011, L’épilepsie en France : Une thématique aux enjeux considérables. Available on [http://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf](ttp://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf)
 
 \[2\] Epilepsy Foundation, Treating Seizures and Epilepsy, [http://www.epilepsy.com/learn/treating-seizures-and-epilepsy](http://www.epilepsy.com/learn/treating-seizures-and-epilepsy) \[ Accessed 3 Apr. 2017 \]
+
+## How to contribute
+If you want to improve this documentation, please refer to [How To Contribute](https://github.com/Aura-healthcare/Aura_gitbook/blob/master/CONTRIBUTING.md)
