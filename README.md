@@ -2,7 +2,7 @@
 
 [https://aura-healthcare.gitbooks.io/aura-book/content/](https://aura-healthcare.gitbooks.io/aura-book/content/)
 
-According to World Health Organization, Epilepsy is a common neurological disorder that affects around 6 millions people of all ages and social conditions in Europe\[1\]. In France, we count 400 000 epileptic patients\[1\].
+According to World Health Organization, Epilepsy is a common neurological disorder that affects around 6 millions people of all ages and social conditions in Europe\[1\]. In France, we count 600 000 epileptic patients\[1\].
 
 ### Living with Epilepsy
 
@@ -37,7 +37,7 @@ Aura doesn't cure epilepsy because it doesn't stop seizures. But it provides use
 
 ### References
 
-\[1\] Comité National pour l’Epilepsie. Synthèse de mars 2011, L’épilepsie en France : Une thématique aux enjeux considérables. Available on [http://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf](ttp://www.fondation-epilepsie.fr/pdf/synthese-mars-2011-ms.pdf)
+\[1\] Fondation Pour la Recherche sur l'Epilepsie, Comprendre l'epilepsie - Qu'est ce que c'est ? Available on [http://www.fondation-epilepsie.fr/comprendre-epilepsie/quest-ce-que-cest/](http://www.fondation-epilepsie.fr/comprendre-epilepsie/quest-ce-que-cest/)
 
 \[2\] Epilepsy Foundation, Treating Seizures and Epilepsy, [http://www.epilepsy.com/learn/treating-seizures-and-epilepsy](http://www.epilepsy.com/learn/treating-seizures-and-epilepsy) \[ Accessed 3 Apr. 2017 \]
 
