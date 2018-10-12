@@ -29,6 +29,9 @@ The user can notify a past seizure by using the mobile interface. It will help u
 
 <img src="/assets/seizure-report-screen.png" width="230">
 
+#### About security
+What we do in our app [here](best-practice-mobile-security-application.md)
+
 ## Source Code
 
 The Aura mobile app source code is open source, distributed under GPL v3 license and available on [Github](https://github.com/clecoued/Aura_mobile_app).
